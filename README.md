@@ -1,4 +1,4 @@
-# Lazer Math
+# Lazer Programming Language
 A new programming language based on Python
 
 ## Run the program
